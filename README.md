@@ -23,3 +23,4 @@
   - https://www.wired.com/story/researchers-llm-ai-robot-violence/
 - [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
 - [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [Quotas for Bedrock](https://docs.aws.amazon.com/general/latest/gr/bedrock.html#limits_bedrock)
