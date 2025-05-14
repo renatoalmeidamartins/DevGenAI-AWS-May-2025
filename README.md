@@ -22,3 +22,4 @@
   - https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/
   - https://www.wired.com/story/researchers-llm-ai-robot-violence/
 - [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
+- [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
