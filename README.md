@@ -24,3 +24,7 @@
 - [Jailbreaking model research](https://unit42.paloaltonetworks.com/jailbreaking-generative-ai-web-products/)
 - [AWS Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 - [Quotas for Bedrock](https://docs.aws.amazon.com/general/latest/gr/bedrock.html#limits_bedrock)
+- [Model availability by region for Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html)
+- [Macie is a good service for identifying PII](https://docs.aws.amazon.com/macie/latest/user/data-classification.html)
+- [Bedrock on-demand pricing](https://aws.amazon.com/bedrock/pricing/)
+- 
