@@ -15,3 +15,4 @@
 - [AWS Comprehend Sentiment analysis](https://docs.aws.amazon.com/comprehend/latest/dg/how-sentiment.html)
 - [Responsible Ai](https://aws.amazon.com/ai/responsible-ai/policy/)
 - [Lllama model leak into 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
+- [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
