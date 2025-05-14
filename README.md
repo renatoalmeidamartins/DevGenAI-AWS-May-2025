@@ -16,3 +16,8 @@
 - [Responsible Ai](https://aws.amazon.com/ai/responsible-ai/policy/)
 - [Lllama model leak into 4chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse)
 - [Transformers in neural networks](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- Some examples of models harming people:
+  - https://www.tradingview.com/news/cointelegraph:0909bdece094b:0-researchers-hack-ai-enabled-robots-to-cause-real-world-harm/
+  - https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-robots-to-run-over-pedestrians-place-bombs-for-maximum-damage-and-covertly-spy
+  - https://unit42.paloaltonetworks.com/new-frontier-of-genai-threats-a-comprehensive-guide-to-prompt-attacks/
+  - https://www.wired.com/story/researchers-llm-ai-robot-violence/
