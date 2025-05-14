@@ -11,3 +11,4 @@
 - [Artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
 - [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- [Sagemaker built-in models](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
