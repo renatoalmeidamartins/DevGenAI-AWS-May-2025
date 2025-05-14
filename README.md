@@ -8,3 +8,6 @@
 - [AWS technical essentials](https://explore.skillbuilder.aws/learn/courses/1851/aws-technical-essentials)
 
 ## Day 1 links
+- [Artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
