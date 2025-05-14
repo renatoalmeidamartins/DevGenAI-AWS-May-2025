@@ -13,3 +13,4 @@
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker built-in models](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [AWS Comprehend Sentiment analysis](https://docs.aws.amazon.com/comprehend/latest/dg/how-sentiment.html)
+- [Responsible Ai](https://aws.amazon.com/ai/responsible-ai/policy/)
