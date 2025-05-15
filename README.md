@@ -41,8 +41,8 @@
   ```
   aws bedrock-runtime invoke-model --model-id 'amazon.titan-text-premier-v1:0' --body '{  "inputText": "how to boil an egg?", "textGenerationConfig": { "maxTokenCount": 2048, "temperature": 1 } }' --cli-binary-format raw-in-base64-out C:\tmp\outfile.txt
   ```
-  - [Inference parameters for all model "families"](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
-  - Minimimum permission required to invoke a model (in the example below, we can invoke all models, as resource is *:
+- [Inference parameters for all model "families"](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
+- Minimimum permission required to invoke a model (in the example below, we can invoke all models, as resource is *:
 ```
 {
     "Version": "2012-10-17",
