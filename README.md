@@ -57,3 +57,7 @@
 ```
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [Leaked system prompts, along with links to the techniques used to make them leak](https://github.com/jujumilk3/leaked-system-prompts)
+- Vector databases
+  - [Azure list of open source vector databases](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/vector-search-ai)
+  - [AWS info on vector databases, and how their own services can be used to store vector data](https://aws.amazon.com/what-is/vector-databases/)
+  - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
