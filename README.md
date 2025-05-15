@@ -29,4 +29,8 @@
 - [Model availability by region for Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html)
 - [Macie is a good service for identifying PII](https://docs.aws.amazon.com/macie/latest/user/data-classification.html)
 - [Bedrock on-demand pricing](https://aws.amazon.com/bedrock/pricing/)
-- 
+
+## Day 2 links
+- [Inferentia, custom-built inferencing chip](https://aws.amazon.com/ai/machine-learning/inferentia/)
+- [Traininum, custom-buil AI training chip](https://aws.amazon.com/ai/machine-learning/trainium/)
+- [GPU-powered instances](https://aws.amazon.com/ec2/instance-types/g5/)
