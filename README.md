@@ -36,3 +36,4 @@
 - [GPU-powered instances](https://aws.amazon.com/ec2/instance-types/g5/)
 - [GPT - Generative Pre-trained Transformers](https://aws.amazon.com/what-is/gpt/)
 - [Stable diffusion announcement, image generation model](https://www.lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html)
+- [Bedrock-runtime CLI](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/)
