@@ -55,3 +55,4 @@
     ]
 }
 ```
+- [Prompt engineering guide](https://www.promptingguide.ai/)
