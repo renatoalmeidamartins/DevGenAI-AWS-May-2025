@@ -37,3 +37,9 @@
 - [GPT - Generative Pre-trained Transformers](https://aws.amazon.com/what-is/gpt/)
 - [Stable diffusion announcement, image generation model](https://www.lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html)
 - [Bedrock-runtime CLI](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/)
+- Sample code for invoking a model through the CLI:
+  ```
+  aws bedrock-runtime invoke-model --model-id 'amazon.titan-text-premier-v1:0' --body '{  "inputText": "how to boil an egg?", "textGenerationConfig": { "maxTokenCount": 2048, "temperature": 1 } }' --cli-binary-format raw-in-base64-out C:\tmp\outfile.txt
+  ```
+  - [Inference parameters for all model "families"](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
+  - 
