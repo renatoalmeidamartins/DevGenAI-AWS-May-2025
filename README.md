@@ -34,3 +34,5 @@
 - [Inferentia, custom-built inferencing chip](https://aws.amazon.com/ai/machine-learning/inferentia/)
 - [Traininum, custom-buil AI training chip](https://aws.amazon.com/ai/machine-learning/trainium/)
 - [GPU-powered instances](https://aws.amazon.com/ec2/instance-types/g5/)
+- [GPT - Generative Pre-trained Transformers](https://aws.amazon.com/what-is/gpt/)
+- [Stable diffusion announcement, image generation model](https://www.lmu.de/en/newsroom/news-overview/news/revolutionizing-image-generation-by-ai-turning-text-into-images.html)
