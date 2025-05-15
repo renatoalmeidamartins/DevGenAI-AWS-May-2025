@@ -56,3 +56,4 @@
 }
 ```
 - [Prompt engineering guide](https://www.promptingguide.ai/)
+- [Leaked system prompts, along with links to the techniques used to make them leak](https://github.com/jujumilk3/leaked-system-prompts)
