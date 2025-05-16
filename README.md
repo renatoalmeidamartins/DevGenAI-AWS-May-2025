@@ -1,5 +1,9 @@
 # Repo with links for the Developing Generative AI applications on AWS
 
+## My contact details
+- Linkedin -> https://www.linkedin.com/in/renatodealmeidamartins/
+- email: renatoalmeidamartins@gmail.com
+  
 ## Code sample
 - Go [here](/code-sample)
 - Requirements
