@@ -61,3 +61,10 @@
   - [Azure list of open source vector databases](https://learn.microsoft.com/en-us/azure/cosmos-db/mongodb/vcore/vector-search-ai)
   - [AWS info on vector databases, and how their own services can be used to store vector data](https://aws.amazon.com/what-is/vector-databases/)
   - [FAISS, an open source vector DB from Facebook](https://github.com/facebookresearch/faiss)
+
+
+## Day 3 links
+- [LangChain documentation](https://python.langchain.com/docs/introduction/)
+- [Better browsing through the tutorials](https://python.langchain.com/docs/tutorials/)
+- [Inside GitHub there are plenty of sample notebooks - go into cookbooks and docs folder](https://github.com/langchain-ai/langchain)
+- 
