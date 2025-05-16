@@ -67,4 +67,4 @@
 - [LangChain documentation](https://python.langchain.com/docs/introduction/)
 - [Better browsing through the tutorials](https://python.langchain.com/docs/tutorials/)
 - [Inside GitHub there are plenty of sample notebooks - go into cookbooks and docs folder](https://github.com/langchain-ai/langchain)
-- 
+- [Rate limiters could be used with LangChain](https://python.langchain.com/docs/how_to/chat_model_rate_limiting/)
