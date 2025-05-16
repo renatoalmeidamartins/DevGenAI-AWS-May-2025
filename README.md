@@ -1,4 +1,10 @@
 # Repo with links for the Developing Generative AI applications on AWS
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
 ## Links to access the class and materials
 - [Meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m2e71924ae32964ae1fc324f3dbaba1c0)
 - [Access to lab and books](https://us-east-1.student.classrooms.aws.training/class/ilt%235frpxG76eKHKUyzVzH4UTs)
