@@ -1,4 +1,9 @@
 # Repo with links for the Developing Generative AI applications on AWS
+
+## Code sample
+- Go [here](/code-sample)
+- When running locally, ensure you create a virtual environment (```python -m env path-to-env```), and activate it (on Windows ```path-to-env/scripts/activate.ps1```)
+- Run a ```pip install -r requirements.txt```
 ## Class evaluation
 - Go to [aws.training](https://www.aws.training/)
 - Click sign in, log in with the same account you used to access the lab and course materials
