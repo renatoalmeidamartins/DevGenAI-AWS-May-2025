@@ -20,6 +20,7 @@
 - [AWS Skill builder](https://skillbuilder.aws/)
 - [AWS technical essentials](https://explore.skillbuilder.aws/learn/courses/1851/aws-technical-essentials)
 - [All courses available from AWS training and certification](https://releases.awstc.com/)
+- [Certification exam list](https://aws.amazon.com/certification/exams/?nc2=sb_ce_exm)
 
 ## Day 1 links
 - [Artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
@@ -81,3 +82,12 @@
 - [Better browsing through the tutorials](https://python.langchain.com/docs/tutorials/)
 - [Inside GitHub there are plenty of sample notebooks - go into cookbooks and docs folder](https://github.com/langchain-ai/langchain)
 - [Rate limiters could be used with LangChain](https://python.langchain.com/docs/how_to/chat_model_rate_limiting/)
+- [Bedrock workshops](https://workshops.aws/categories/Amazon%20Bedrock)
+- [RAG using LangChain and a Retriever class](https://python.langchain.com/docs/concepts/rag/)
+- [Repo with multiple Bedrock samples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/python/example_code/bedrock-runtime#code-examples)
+- [Blog article using OpenSearch as a vector database](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
+- [Sagemaker examples](https://github.com/aws/amazon-sagemaker-examples/tree/default)
+- [Track LLM model evaluation using MLFlow and FMEval](https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/)
+- [Evaluating prompts at scale](https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/)
+- [Using models to evaluate other models](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
+- [Frameworks for benchmarking LLMs](https://www.ibm.com/think/topics/llm-benchmarks)
